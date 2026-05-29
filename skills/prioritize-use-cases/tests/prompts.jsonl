@@ -1,0 +1,2 @@
+{"expected_contains":["when to use"],"prompt":"When should I use PrioritizeUseCases?"}
+{"expected_contains":["next"],"prompt":"Apply PrioritizeUseCases for this use case."}

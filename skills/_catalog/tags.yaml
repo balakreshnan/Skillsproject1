@@ -1,0 +1,31 @@
+tags:
+  - name: governance
+    description: Skills that define mandatory engineering standards.
+  - name: ai-stack
+    description: Skills that enforce approved AI technology stack choices.
+  - name: git
+    description: Skills related to source control hygiene and synchronization.
+  - name: workflow
+    description: Skills that enforce team process and delivery flow.
+  - name: enforcement
+    description: Skills that define mandatory checks before proceeding.
+  - name: example
+    description: Sample and demo skill content.
+  - name: starter
+    description: Bootstrap content used to start new skills quickly.
+  - name: use-case-strategy
+    description: Skills for use case framing, prioritization, and business alignment.
+  - name: use-case-modeling
+    description: Skills for user stories, workflows, and success criteria modeling.
+  - name: requirements-engineering
+    description: Skills for business, functional, system, and data requirements.
+  - name: architecture-design
+    description: Skills for current-state assessment and target architecture design.
+  - name: documentation
+    description: Skills for producing and maintaining technical and solution documents.
+  - name: validation-readiness
+    description: Skills for readiness checks, KPIs, risk, and POC validation.
+  - name: implementation-planning
+    description: Skills for implementation planning, milestones, backlog, and tracks.
+  - name: execution-optimization
+    description: Skills for execution, feedback loops, optimization, and performance.

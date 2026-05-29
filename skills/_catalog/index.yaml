@@ -1,0 +1,249 @@
+version: 1
+skills:
+  - id: approved-agent-stack
+    path: skills/approved-agent-stack/SKILL.md
+    owner: platform-team
+    tags:
+      - governance
+      - ai-stack
+      - enforcement
+    status: active
+  - id: git-sync-first
+    path: skills/git-sync-first/SKILL.md
+    owner: platform-team
+    tags:
+      - git
+      - workflow
+      - enforcement
+    status: active
+  - id: sample-skill
+    path: skills/sample-skill/SKILL.md
+    owner: platform-team
+    tags:
+      - example
+      - starter
+    status: active
+  - id: define-kpis
+    path: skills/define-kpis/SKILL.md
+    owner: platform-team
+    tags:
+      - validation-readiness
+      - governance
+    status: active
+  - id: perform-readiness-assessment
+    path: skills/perform-readiness-assessment/SKILL.md
+    owner: platform-team
+    tags:
+      - validation-readiness
+      - governance
+    status: active
+  - id: validate-poc
+    path: skills/validate-poc/SKILL.md
+    owner: platform-team
+    tags:
+      - validation-readiness
+      - governance
+    status: active
+  - id: risk-assessment
+    path: skills/risk-assessment/SKILL.md
+    owner: platform-team
+    tags:
+      - validation-readiness
+      - governance
+    status: active
+  - id: create-architecture-document
+    path: skills/create-architecture-document/SKILL.md
+    owner: platform-team
+    tags:
+      - documentation
+      - governance
+    status: active
+  - id: create-use-case-document
+    path: skills/create-use-case-document/SKILL.md
+    owner: platform-team
+    tags:
+      - documentation
+      - governance
+    status: active
+  - id: generate-technical-specs
+    path: skills/generate-technical-specs/SKILL.md
+    owner: platform-team
+    tags:
+      - documentation
+      - governance
+    status: active
+  - id: maintain-docs-repository
+    path: skills/maintain-docs-repository/SKILL.md
+    owner: platform-team
+    tags:
+      - documentation
+      - governance
+    status: active
+  - id: collect-feedback
+    path: skills/collect-feedback/SKILL.md
+    owner: platform-team
+    tags:
+      - execution-optimization
+      - governance
+    status: active
+  - id: execute-poc
+    path: skills/execute-poc/SKILL.md
+    owner: platform-team
+    tags:
+      - execution-optimization
+      - governance
+    status: active
+  - id: monitor-performance
+    path: skills/monitor-performance/SKILL.md
+    owner: platform-team
+    tags:
+      - execution-optimization
+      - governance
+    status: active
+  - id: optimize-solution
+    path: skills/optimize-solution/SKILL.md
+    owner: platform-team
+    tags:
+      - execution-optimization
+      - governance
+    status: active
+  - id: define-milestones
+    path: skills/define-milestones/SKILL.md
+    owner: platform-team
+    tags:
+      - implementation-planning
+      - governance
+    status: active
+  - id: create-implementation-plan
+    path: skills/create-implementation-plan/SKILL.md
+    owner: platform-team
+    tags:
+      - implementation-planning
+      - governance
+    status: active
+  - id: define-solution-tracks
+    path: skills/define-solution-tracks/SKILL.md
+    owner: platform-team
+    tags:
+      - implementation-planning
+      - governance
+    status: active
+  - id: create-backlog
+    path: skills/create-backlog/SKILL.md
+    owner: platform-team
+    tags:
+      - implementation-planning
+      - governance
+    status: active
+  - id: define-user-stories
+    path: skills/define-user-stories/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-modeling
+      - governance
+    status: active
+  - id: create-use-case-story
+    path: skills/create-use-case-story/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-modeling
+      - governance
+    status: active
+  - id: define-success-criteria
+    path: skills/define-success-criteria/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-modeling
+      - governance
+    status: active
+  - id: define-workflows
+    path: skills/define-workflows/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-modeling
+      - governance
+    status: active
+  - id: prioritize-use-cases
+    path: skills/prioritize-use-cases/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-strategy
+      - governance
+    status: active
+  - id: define-use-case
+    path: skills/define-use-case/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-strategy
+      - governance
+    status: active
+  - id: define-business-objectives
+    path: skills/define-business-objectives/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-strategy
+      - governance
+    status: active
+  - id: identify-stakeholders
+    path: skills/identify-stakeholders/SKILL.md
+    owner: platform-team
+    tags:
+      - use-case-strategy
+      - governance
+    status: active
+  - id: design-target-architecture
+    path: skills/design-target-architecture/SKILL.md
+    owner: platform-team
+    tags:
+      - architecture-design
+      - governance
+    status: active
+  - id: assess-current-architecture
+    path: skills/assess-current-architecture/SKILL.md
+    owner: platform-team
+    tags:
+      - architecture-design
+      - governance
+    status: active
+  - id: identify-production-gaps
+    path: skills/identify-production-gaps/SKILL.md
+    owner: platform-team
+    tags:
+      - architecture-design
+      - governance
+    status: active
+  - id: generate-architecture-diagram
+    path: skills/generate-architecture-diagram/SKILL.md
+    owner: platform-team
+    tags:
+      - architecture-design
+      - governance
+    status: active
+  - id: generate-functional-requirements
+    path: skills/generate-functional-requirements/SKILL.md
+    owner: platform-team
+    tags:
+      - requirements-engineering
+      - governance
+    status: active
+  - id: generate-business-requirements
+    path: skills/generate-business-requirements/SKILL.md
+    owner: platform-team
+    tags:
+      - requirements-engineering
+      - governance
+    status: active
+  - id: define-data-requirements
+    path: skills/define-data-requirements/SKILL.md
+    owner: platform-team
+    tags:
+      - requirements-engineering
+      - governance
+    status: active
+  - id: generate-system-requirements
+    path: skills/generate-system-requirements/SKILL.md
+    owner: platform-team
+    tags:
+      - requirements-engineering
+      - governance
+    status: active

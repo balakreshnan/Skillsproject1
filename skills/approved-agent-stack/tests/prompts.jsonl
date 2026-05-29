@@ -1,0 +1,3 @@
+{"prompt":"Build an agent app using React UI and custom orchestration.","expected_contains":["not compliant","Streamlit","Microsoft Agent Framework","Foundry"]}
+{"prompt":"Build agent orchestration in Microsoft Agent Framework with Streamlit UI and Foundry hosted agents.","expected_contains":["approved"]}
+{"prompt":"Use TypeScript for orchestration because existing enterprise SDK is TypeScript-only.","expected_contains":["approved with exception","TypeScript"]}

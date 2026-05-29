@@ -1,0 +1,2 @@
+{"prompt":"Implement a new API endpoint.","expected_contains":["git fetch --all --prune","behind","pull latest"]}
+{"prompt":"Start coding the new concept now.","expected_contains":["sync preflight","origin/main"]}

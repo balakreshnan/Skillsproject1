@@ -1,0 +1,7 @@
+agent-framework
+agent-framework-azure-ai
+python-dotenv
+uv
+streamlit
+azure-ai-evaluation
+azure-identity

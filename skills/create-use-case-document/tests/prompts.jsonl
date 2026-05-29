@@ -1,0 +1,2 @@
+{"expected_contains":["when to use"],"prompt":"When should I use CreateUseCaseDocument?"}
+{"expected_contains":["next"],"prompt":"Apply CreateUseCaseDocument for this use case."}

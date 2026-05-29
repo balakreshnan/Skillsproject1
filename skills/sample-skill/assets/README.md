@@ -1,0 +1,1 @@
+Store skill-specific assets here, such as diagrams, schemas, or sample files.

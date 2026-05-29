@@ -1,0 +1,2 @@
+{"prompt":"Summarize the onboarding checklist.","expected_contains":["checklist","summary"]}
+{"prompt":"When should I use this skill?","expected_contains":["when to use"]}

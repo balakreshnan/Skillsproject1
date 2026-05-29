@@ -1,0 +1,2 @@
+{"expected_contains":["when to use"],"prompt":"When should I use GenerateTechnicalSpecs?"}
+{"expected_contains":["next"],"prompt":"Apply GenerateTechnicalSpecs for this use case."}

@@ -1,0 +1,2 @@
+{"expected_contains":["when to use"],"prompt":"When should I use CreateArchitectureDocument?"}
+{"expected_contains":["next"],"prompt":"Apply CreateArchitectureDocument for this use case."}

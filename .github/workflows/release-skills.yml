@@ -1,0 +1,25 @@
+name: Release Skills
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate skills
+        shell: pwsh
+        run: ./scripts/validate-skills.ps1
+
+      - name: Build catalog
+        shell: pwsh
+        run: ./scripts/build-catalog.ps1
+
+      - name: Upload catalog artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: skills-catalog
+          path: skills/_catalog/index.yaml
