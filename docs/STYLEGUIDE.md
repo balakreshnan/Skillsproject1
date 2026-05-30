@@ -14,6 +14,14 @@
 - Skill folder names: kebab-case.
 - Skill name in frontmatter should match folder name.
 
+## Governance And Compliance
+- These rules apply to all projects and use-case build-outs in this repository.
+- Break code into reusable functions.
+- Store shared reusable code in a `utility/` folder.
+- Reuse existing utilities first and avoid duplicate implementations.
+- Do not write unnecessary code.
+- Revalidate changes and remove unwanted/dead code to keep the repository clean.
+
 ## Security And Data Standards
 - For application authentication, default to DefaultAzureCredential or Managed Identity.
 - Keep secrets in environment variables and local .env files; never commit secrets to git.

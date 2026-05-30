@@ -68,6 +68,15 @@ For all application-oriented skills in this repository:
 5. If local file-backed persistence is needed, use a dedicated data/ folder with JSON or JSONL files.
 6. Production applications must have OpenTelemetry (OTEL) observability enabled (traces, metrics, and logs).
 
+## Mandatory Governance And Compliance Rules
+
+For all projects and use-case build-outs in this repository:
+1. Break implementation code into reusable functions.
+2. Put shared reusable code in a utility/ folder.
+3. Reuse existing utilities first and avoid duplicate implementations.
+4. Do not write unnecessary code.
+5. Revalidate changes and remove dead or unwanted code to keep the repository clean.
+
 ## Goals
 
 - Keep all skills in one discoverable location.

@@ -25,6 +25,14 @@ Apply the following defaults for all application-oriented skills:
 4. Data persistence: store operational data in Cosmos DB or another approved database. If file-based storage is required for local/dev scenarios, use a dedicated data/ folder and JSON or JSONL files.
 5. Production applications: enable OpenTelemetry (OTEL) observability, including traces, metrics, and logs.
 
+## Mandatory Governance And Compliance Standard
+Apply the following defaults for all projects and use-case build-outs:
+1. Break implementation code into reusable functions.
+2. Place shared reusable code in a utility/ folder.
+3. Reuse existing utilities first and avoid duplicate implementations.
+4. Do not write unnecessary code.
+5. Revalidate changes and remove dead or unwanted code to keep the repository clean.
+
 ## Add A New Skill
 1. Create a folder under skills/<skill-name>/.
 2. Copy templates/SKILL.template.md to skills/<skill-name>/SKILL.md.

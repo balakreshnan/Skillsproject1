@@ -23,6 +23,36 @@ List non-goals and exclusions.
 # Outputs
 - Expected response format
 
+# Governance And Compliance
+- Break implementation code into reusable functions.
+- Place shared reusable code in a `utility/` folder.
+- Reuse existing utilities before creating new code; avoid duplicates.
+- Do not add unnecessary code.
+- Revalidate changes and remove unwanted or dead code to keep the repository clean.
+
+# Core Delivery Principles
+Apply these four principles for every application and use-case implementation:
+
+1. Think Before Coding
+- State assumptions explicitly.
+- Surface ambiguity and tradeoffs before implementation.
+- Ask for clarification when requirements are unclear.
+
+2. Simplicity First
+- Implement only what was requested.
+- Prefer the minimum code needed to solve the problem.
+- Avoid speculative abstractions and unnecessary configurability.
+
+3. Surgical Changes
+- Touch only code required for the requested outcome.
+- Preserve existing style and avoid unrelated refactors.
+- Remove only unused artifacts created by your own change.
+
+4. Goal-Driven Execution
+- Define clear, verifiable success criteria.
+- For multi-step work, include a brief plan with verification per step.
+- Validate outcomes with tests/checks before completion.
+
 # Security And Data Handling
 Use templates/security-data-otel.template.md as the canonical snippet for this section.
 
