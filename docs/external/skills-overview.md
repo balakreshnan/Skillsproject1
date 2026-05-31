@@ -1,5 +1,12 @@
 # Skills Overview
 
+## Platform Governance
+
+- CenterOfExcellencePlatform (center-of-excellence-platform)
+- PromptEngineeringBestPractices (prompt-engineering-best-practices)
+- ContextEngineeringBestPractices (context-engineering-best-practices)
+- HarnessEngineeringBestPractices (harness-engineering-best-practices)
+
 ## Use Case Strategy
 
 - DefineUseCase (define-use-case)

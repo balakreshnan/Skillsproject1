@@ -1,0 +1,2 @@
+{"prompt":"Assess this context assembly pipeline for relevance and grounding quality.","expected_contains":["sources","relevance","attribution"]}
+{"prompt":"Identify context bloat and propose a minimal context strategy.","expected_contains":["exclude","budget","deduplicate"]}

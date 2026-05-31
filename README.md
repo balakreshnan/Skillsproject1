@@ -77,6 +77,28 @@ For all projects and use-case build-outs in this repository:
 4. Do not write unnecessary code.
 5. Revalidate changes and remove dead or unwanted code to keep the repository clean.
 
+## AI Engineering Best Practices Enforcement Skills
+
+Use these skills when building or reviewing AI features that require consistent
+quality standards across teams:
+
+1. Prompt engineering standards:
+	Use [skills/prompt-engineering-best-practices/SKILL.md](skills/prompt-engineering-best-practices/SKILL.md) when writing or reviewing system prompts, task prompts, and prompt templates.
+2. Context engineering standards:
+	Use [skills/context-engineering-best-practices/SKILL.md](skills/context-engineering-best-practices/SKILL.md) when defining retrieval inputs, context assembly, grounding sources, and context budgets.
+3. Harness engineering standards:
+	Use [skills/harness-engineering-best-practices/SKILL.md](skills/harness-engineering-best-practices/SKILL.md) when designing evaluation harnesses, regression suites, pass/fail thresholds, and release gates.
+
+Apply these skills during design, implementation planning, and readiness reviews
+to enforce repeatable best practices before production rollout.
+
+## Comprehensive Build Documentation
+
+For a full step-by-step guide and architecture blueprint for software teams:
+
+1. [docs/SKILLS-COMPLETE-GUIDE.md](docs/SKILLS-COMPLETE-GUIDE.md)
+2. [docs/SOFTWARE-ARCHITECTURE-REQUIRED-OPTIONAL.md](docs/SOFTWARE-ARCHITECTURE-REQUIRED-OPTIONAL.md)
+
 ## Goals
 
 - Keep all skills in one discoverable location.

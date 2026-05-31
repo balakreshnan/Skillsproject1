@@ -8,6 +8,34 @@ skills:
       - ai-stack
       - enforcement
     status: active
+  - id: center-of-excellence-platform
+    path: skills/center-of-excellence-platform/SKILL.md
+    owner: platform-team
+    tags:
+      - governance
+      - enforcement
+    status: active
+  - id: prompt-engineering-best-practices
+    path: skills/prompt-engineering-best-practices/SKILL.md
+    owner: platform-team
+    tags:
+      - governance
+      - enforcement
+    status: active
+  - id: context-engineering-best-practices
+    path: skills/context-engineering-best-practices/SKILL.md
+    owner: platform-team
+    tags:
+      - governance
+      - enforcement
+    status: active
+  - id: harness-engineering-best-practices
+    path: skills/harness-engineering-best-practices/SKILL.md
+    owner: platform-team
+    tags:
+      - governance
+      - enforcement
+    status: active
   - id: git-sync-first
     path: skills/git-sync-first/SKILL.md
     owner: platform-team

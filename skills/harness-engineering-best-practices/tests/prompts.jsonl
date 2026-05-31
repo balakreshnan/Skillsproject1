@@ -1,0 +1,2 @@
+{"prompt":"Evaluate this AI test harness design for release readiness.","expected_contains":["thresholds","coverage","traceability"]}
+{"prompt":"Identify weak spots in this regression harness and suggest fixes.","expected_contains":["edge cases","metrics","remediation"]}

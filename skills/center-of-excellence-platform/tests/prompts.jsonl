@@ -1,0 +1,2 @@
+{"prompt":"Assess whether this platform proposal is CoE-compliant for organization-wide deployment.","expected_contains":["approved","gaps","remediation"]}
+{"prompt":"Use CoE-Image1.jpg to map governance ownership and return enforcement checkpoints.","expected_contains":["ownership","checkpoints","compliance"]}

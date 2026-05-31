@@ -1,0 +1,2 @@
+{"prompt":"Evaluate this prompt for production readiness and policy-safe structure.","expected_contains":["approved","checklist","risks"]}
+{"prompt":"Rewrite this ambiguous prompt using enterprise prompt best practices.","expected_contains":["objective","constraints","format"]}
