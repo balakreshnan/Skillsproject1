@@ -99,6 +99,14 @@ For a full step-by-step guide and architecture blueprint for software teams:
 1. [docs/SKILLS-COMPLETE-GUIDE.md](docs/SKILLS-COMPLETE-GUIDE.md)
 2. [docs/SOFTWARE-ARCHITECTURE-REQUIRED-OPTIONAL.md](docs/SOFTWARE-ARCHITECTURE-REQUIRED-OPTIONAL.md)
 
+## Business Documentation
+
+For business-facing value, user guidance, and tutorials:
+
+1. [docs/BUSINESS-VALUE.md](docs/BUSINESS-VALUE.md)
+2. [docs/BUSINESS-USER-GUIDE.md](docs/BUSINESS-USER-GUIDE.md)
+3. [docs/TUTORIALS.md](docs/TUTORIALS.md)
+
 ## Goals
 
 - Keep all skills in one discoverable location.
